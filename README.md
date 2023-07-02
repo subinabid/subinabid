@@ -4,6 +4,9 @@
 I am an IPMA Level C certified Project manager with 12 years of experience in the Energy / Infrastructure domain. I work for NTPC Ltd., India's largest power producer. I build power plants and air pollution control systems AFK. I have Thermal, Solar and Wind power projects in my portfolio.
 
 
+Prior to my current job, I worked as a data analyst for the world’s largest pure-play data analytics firm. Before that, I had a sprint in automobile R&D, calibrating common rail diesel engines on the Bosch EDC platform.
+
+
 I love software and enjoy writing Python. 
 
 
