@@ -7,14 +7,14 @@ I am a **Technical Product Manager & Full-Stack Developer** with 14 years of exp
 * **Scale & Governance:** IPMA Level C certified Project Manager. Ex-NTPC Ltd, where I managed large-scale Thermal, Solar, and Wind power infrastructure and spearheaded enterprise digital transformation projects.
 * **Engineering Roots:** Started in automotive R&D at Mahindra & Mahindra, calibrating common rail diesel engines on the Bosch EDC platform, followed by enterprise data analytics.
 
----
-
 ### 🔮 Current Focus
 * 🔭 **AI Engineering:** Designing and benchmarking local coding harnesses with LLMs.
 * 🌱 **Continuous Learning:** Deep-diving into neural networks via Andrej Karpathy and François Chollet.
 * 🛠 **Consulting:** Helping teams architecture clean Python backends and optimize complex project execution via Microsoft Project.
 
 📫 **Get in touch:** io@sabid.in | [Portfolio](https://sabid.in/)
+
+---
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
