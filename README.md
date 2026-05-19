@@ -2,11 +2,13 @@
 
 Ex co-founder and Product Manager at AlphaGeek, where we built Zerowatt energy Intelligence system. I love software and enjoy writing Python. 
 
-I am an IPMA Level C certified Project manager with 13 years of experience in the Energy / Infrastructure domain. I used to work for NTPC Ltd., India's largest power producer, building power plants and air pollution control systems. I have Thermal, Solar and Wind power projects in my portfolio. Before that, I worked as a data analyst for the world’s largest pure-play data analytics firm. I had a sprint in automobile R&D at Mahindra & Mahindra, calibrating common rail diesel engines on the Bosch EDC platform.
+I am an IPMA Level C certified Project manager with 13 years of experience in the Energy / Infrastructure domain. I used to work for NTPC Ltd., India's largest power producer, building power plants and air pollution control systems. I have Thermal, Solar and Wind power projects in my portfolio. I also handled digital transformmation projects on ERP & Project Management.
+
+Before that, I worked as a data analyst for the world’s largest pure-play data analytics firm. I had a sprint in automobile R&D at Mahindra & Mahindra, calibrating common rail diesel engines on the Bosch EDC platform.
 
 People call me when they need to build a Python backend or to consult on Microsoft Project - For implementation and project planning.
 
-- 🔭 I’m currently Experimenting with coding harnesses with differnt LLMs
+- 🔭 I’m currently Experimenting with coding harnesses with different LLMs
 - 🌱 I’m currently reading Andrej Karpathy and François Chollet
 - 📫 How to reach me: io@sabid.in
 
