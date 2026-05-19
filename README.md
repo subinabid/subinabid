@@ -1,16 +1,20 @@
 # Hi, I'm Subin 👋
 
-Ex co-founder and Product Manager at AlphaGeek, where we built Zerowatt energy Intelligence system. I love software and enjoy writing Python. 
+I am a **Technical Product Manager & Full-Stack Developer** with 14 years of experience across energy infrastructure, automotive R&D, and data analytics. I specialise in building Python backends, designing data-driven systems, and leading complex, high-stakes digital transformations.
 
-I am an IPMA Level C certified Project manager with 13 years of experience in the Energy / Infrastructure domain. I used to work for NTPC Ltd., India's largest power producer, building power plants and air pollution control systems. I have Thermal, Solar and Wind power projects in my portfolio. I also handled digital transformmation projects on ERP & Project Management.
+### 🚀 Highlights
+* **Founder & Product Mindset:** Ex-Co-Founder & Product Manager at AlphaGeek, where I led the product strategy and development for the Zerowatt Energy Intelligence platform.
+* **Scale & Governance:** IPMA Level C certified Project Manager. Ex-NTPC Ltd, where I managed large-scale Thermal, Solar, and Wind power infrastructure and spearheaded enterprise digital transformation projects.
+* **Engineering Roots:** Started in automotive R&D at Mahindra & Mahindra, calibrating common rail diesel engines on the Bosch EDC platform, followed by enterprise data analytics.
 
-Before that, I worked as a data analyst for the world’s largest pure-play data analytics firm. I had a sprint in automobile R&D at Mahindra & Mahindra, calibrating common rail diesel engines on the Bosch EDC platform.
+---
 
-People call me when they need to build a Python backend or to consult on Microsoft Project - For implementation and project planning.
+### 🔮 Current Focus
+* 🔭 **AI Engineering:** Designing and benchmarking local coding harnesses with LLMs.
+* 🌱 **Continuous Learning:** Deep-diving into neural networks via Andrej Karpathy and François Chollet.
+* 🛠 **Consulting:** Helping teams architecture clean Python backends and optimize complex project execution via Microsoft Project.
 
-- 🔭 I’m currently Experimenting with coding harnesses with different LLMs
-- 🌱 I’m currently reading Andrej Karpathy and François Chollet
-- 📫 How to reach me: io@sabid.in
+📫 **Get in touch:** io@sabid.in | [Portfolio](https://sabid.in/)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
